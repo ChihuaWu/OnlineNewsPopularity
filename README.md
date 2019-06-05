@@ -1,7 +1,7 @@
 # OnlineNewsPopularity
 
 ## Introduction
-The original work is a school project that helps us to be more familiar with algorithms and analytical skills. The project cannot be completed without the teamwork. Thank you all my teammates, especially Josh Wilder. The original work is conducted by JUMP software. In this repository, I will try to duplicated the works by a powerful tool, Python. And I'll demonstrate other techniques to extrat more information from the data. Please don't hesitate to point out any mistakes or grammer. I'm happy to correct them and have a dicussion.
+The original work is a school project that helps us to be more familiar with algorithms and analytical skills. The project cannot be completed without the teamwork. Thank you all my teammates, especially Josh Wilder. The original work is conducted by JMP software. In this repository, I will try to duplicated the works by a powerful tool, Python. And I'll demonstrate other techniques to extrat more information from the data. Please don't hesitate to point out any mistakes or grammer. I'm happy to correct them and have a dicussion.
 
 
 ## Data Introduction
