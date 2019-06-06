@@ -20,8 +20,12 @@ There're several things should be eliminated to achieve a refined model and inte
 
 
 ## Methodolgy
-The methodology of this study followed by SEMMA, namely Sample, Explore, and Modify, Models, and Assess, and the illustration below demonstrates the process of SEMMA (“Introduction to SEMMA,” 2017).
-
+The methodology of this study is followed by SEMMA.(Shmueli, Bruce, Stephens & Patel, 2017, p. 18)
+- Sample
+- Explore
+- Modify
+- Models
+- Assess
 
 ## Conlcusion
 In conclusion, to improve social media virality, we suggest Mashable focus most on publishing the right types of articles, with the right keywords, at the right time. Specifically, efforts like publishing articles on the weekend would cost Mashable little to nothing and would significantly increase social media visibility, while efforts like including many images in articles cost Mashable time and money and achieve very little. With our insights and recommendations, we believe that the average popularity of Mashable articles on social media would increase considerably.
