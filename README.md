@@ -1,7 +1,7 @@
 # OnlineNewsPopularity
 
 ## Introduction
-The original work is a school project that helps us to be more familiar with algorithms and analytical skills. The project cannot be completed without the teamwork. Thank you all my teammates, especially Josh Wilder. The original work is conducted by JMP software. In this repository, I will try to duplicated the works by a powerful tool, Python. And I'll demonstrate other techniques to extrat more information from the data. Please don't hesitate to point out any mistakes or grammer. I'm happy to correct them and have a dicussion.
+The work is a school project that helps us to be more familiar with algorithms and analytical skills. The project cannot be completed without the teamwork. Thank you all my teammates, especially Josh Wilder. We used JMP software to do all the work. In this repository, it will mainly focus on the methods instead of tool. And I'll demonstrate other techniques to extrat more information from the data. More details can be found in the pdf file. Please don't hesitate to leave your comments and ideas. 
 
 
 ## Data Introduction
@@ -12,3 +12,16 @@ The dataset is called “Online News Popularity Data Set” and it can be access
 The previous work is available in this [website](https://www.researchgate.net/publication/283510525_A_Proactive_Intelligent_Decision_Support_System_for_Predicting_the_Popularity_of_Online_News). The best result was provided by a Random Forest with a discrimination power of 73%. Our goal is trying to beat them with higher accuracy.
 
 
+## Data Pre-processing
+There're several things should be eliminated to achieve a refined model and interpretation.
+-	Missing value
+-	Outliers
+- Cannot interpret due to a lack of documentation
+
+
+## Methodolgy
+The methodology of this study followed by SEMMA, namely Sample, Explore, and Modify, Models, and Assess, and the illustration below demonstrates the process of SEMMA (“Introduction to SEMMA,” 2017).
+
+
+## Conlcusion
+In conclusion, to improve social media virality, we suggest Mashable focus most on publishing the right types of articles, with the right keywords, at the right time. Specifically, efforts like publishing articles on the weekend would cost Mashable little to nothing and would significantly increase social media visibility, while efforts like including many images in articles cost Mashable time and money and achieve very little. With our insights and recommendations, we believe that the average popularity of Mashable articles on social media would increase considerably.
