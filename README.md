@@ -1,7 +1,9 @@
 # OnlineNewsPopularity
 
+<img src="https://user-images.githubusercontent.com/44855565/59952287-997adc00-9449-11e9-88fb-c7eef390a46d.jpg" alt="online news" width=300 height=200>
+
 ## Introduction
-The work is a school project that helps us to be more familiar with algorithms and analytical skills. The project cannot be completed without the teamwork. Thank you all my teammates, especially Josh Wilder. We used JMP software to do all the work. In this repository, it will mainly focus on the methods instead of tool. And I'll demonstrate other techniques to extrat more information from the data. More details can be found in the pdf file. Please don't hesitate to leave your comments and ideas. 
+The work is a school project that helps us to be more familiar with algorithms and analytical skills. The project cannot be completed without the teamwork, thank you guys. We used JMP software to do all the work. In this repository, it will mainly focus on the methods instead of tool. And I'll demonstrate other techniques to extrat more information from the data. More details can be found in the pdf file. Please don't hesitate to leave your comments and ideas. 
 
 
 ## Data Introduction
